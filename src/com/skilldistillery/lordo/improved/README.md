@@ -6,3 +6,6 @@ Discussions regarding this repo will help derive a well planned OOP structure th
 The repository shall be used to continue to spearhead the development of an improved OOP structure.
 
 Please feel free to add an issue as a way to comment on these ideas and suggest improvements.
+
+Forking this repository and submitted PR's is also suitable, although I don't believe there will be much action here, we'll see.
+
